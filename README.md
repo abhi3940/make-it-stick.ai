@@ -6,11 +6,11 @@ Welcome to the Make It Stick repository 🚀! We've innovated to enhance learnin
 # Screenshots 📸
 
 
-<img width="708" alt="Screenshot 2024-02-19 at 3 33 55 PM" src="https://github.com/abhi3940/make-it-stick.ai/assets/75218064/4d41ce77-28fb-4108-9fff-b98fa10f6edf" width =500px>
+<img width="708" alt="Screenshot 2024-02-19 at 3 33 55 PM" src="https://github.com/abhi3940/make-it-stick.ai/assets/75218064/4d41ce77-28fb-4108-9fff-b98fa10f6edf" width =300px>
 
-<img width="1395" alt="Screenshot 2024-02-18 at 12 58 07 PM" src="https://github.com/abhi3940/make-it-stick.ai/assets/75218064/2ff5aac7-7752-407b-8bf2-2ee588f76fb2" width =500px>
+<img width="1395" alt="Screenshot 2024-02-18 at 12 58 07 PM" src="https://github.com/abhi3940/make-it-stick.ai/assets/75218064/2ff5aac7-7752-407b-8bf2-2ee588f76fb2" width =300px>
 
-<img width="702" alt="Screenshot 2024-02-18 at 12 59 56 PM" src="https://github.com/abhi3940/make-it-stick.ai/assets/75218064/01ef0f83-e45b-4bdd-8799-de5d12f20328" width =500px>
+<img width="702" alt="Screenshot 2024-02-18 at 12 59 56 PM" src="https://github.com/abhi3940/make-it-stick.ai/assets/75218064/01ef0f83-e45b-4bdd-8799-de5d12f20328" width =300px>
 
 # Overview 📝
 Sure, I'd be happy to help with your project overview and answer any questions you have on the topic of active learning. 
